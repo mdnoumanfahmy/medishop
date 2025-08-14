@@ -5,13 +5,13 @@ export default function Contact(){
                 <h1 className="mt-5">Contact</h1>
                 <p>Home {'>>'} Contact</p>
                 <div className="row shadow rounded-4">
-                    <div className="col-6 p-5">
+                    <div className="col-md-6 p-5">
                     <img
                         src="https://inaayahealthtech.com/contact.jpg"
                         style={{width:"100%"}}
                     />
                     </div>
-                    <div className="col-6 p-5">
+                    <div className="col-md-6 p-5">
                         <h1>Contact</h1>
 
                         <strong>Our Location</strong><br/>

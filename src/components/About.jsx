@@ -6,13 +6,13 @@ export default function About(){
           <p>Home {'>>'} About</p>
 
           <div className="row shadow rounded-4">
-            <div className="col-6 p-5">
+            <div className="col-md-6 p-5">
               <img
                 src="https://minehrservices.com/images/about-us.jpg"
                 style={{ width: "100%" }}
               />
             </div>
-            <div className="col-6 p-5">
+            <div className="col-md-6 p-5">
               <h1>About</h1>
               <p>
                 As one of the esteemed PCD Pharma companies in India, we pride
