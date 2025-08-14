@@ -7,6 +7,7 @@ import Contact from './components/Contact'
 import { Route, Routes } from 'react-router-dom'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
+import Notfound from './components/Notfound'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,6 +20,7 @@ function App() {
         <Route path="/" element={<Home/>} />
         <Route path="/about" element={<About/>} />
         <Route path="/contact" element={<Contact/>} />
+        <Route path="*" element={<Notfound/>}/>
       </Routes>
       <Footer/>
     </>
