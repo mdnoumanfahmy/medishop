@@ -1,0 +1,16 @@
+STEPS:
+
+1. Create repo (on website) (copy link)
+2. Clone using link
+   > git clone https://github.com/mdnoumanfahmy/medishop.git
+
+3. Use .git inside project (ab usko kaise bhi copy kr lijjiye)
+
+4. To check changes in file
+   > git status
+
+5. To add changes to git
+   > git add .
+   > git commit -m "changes message"
+   > git push
+
