@@ -2,9 +2,10 @@ export default function About(){
     return (
       <>
         <div className="container">
-          <h1 className="mt-5">About</h1>
-          <p>Home {'>>'} About</p>
-
+          <div className="text-center">
+             <h1 className="mt-5">About</h1>
+             <p>Home {'>>'} About</p>
+          </div>
           <div className="row shadow rounded-4">
             <div className="col-md-6 p-5">
               <img

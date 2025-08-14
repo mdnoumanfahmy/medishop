@@ -2,8 +2,10 @@ export default function Contact(){
     return (
         <>
             <div className="container">
-                <h1 className="mt-5">Contact</h1>
-                <p>Home {'>>'} Contact</p>
+                <div className="text-center">
+                    <h1 className="mt-5">Contact</h1>
+                    <p>Home {'>>'} Contact</p>
+                </div>
                 <div className="row shadow rounded-4">
                     <div className="col-md-6 p-5">
                     <img
