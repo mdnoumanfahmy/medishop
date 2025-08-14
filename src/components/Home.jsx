@@ -24,6 +24,12 @@ export default function Home(){
             </button>
             </div>
 
+            <div className="row my-5">
+                <div className="col-12">
+                    <marquee style={{fontSize:'30px',fontWeight:'700'}}>Welcome to our website</marquee>
+                </div>
+            </div>
+
             {/* <img src="https://svmchrc.ac.in/wp-content/uploads/2024/04/commmen.jpg" style={{width: '100%'}}/> */}
          </div>
         </>

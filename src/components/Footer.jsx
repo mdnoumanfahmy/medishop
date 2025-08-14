@@ -32,7 +32,7 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-            <p class="text-center text-body-secondary">© 2025 Medishop, Inc, Designed by Md Nouman Fahmy</p>
+            <p class="text-center text-body-secondary" style={{fontWeight:'600'}}>© 2025 Medishop, Inc, Designed by :<a href="https://github.com/mdnoumanfahmy" style={{textDecoration:'none'}}>Md Nouman Fahmy</a> </p>
           </footer>
         </div>
       </>
