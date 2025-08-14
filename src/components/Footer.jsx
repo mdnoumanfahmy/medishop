@@ -32,7 +32,7 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-            <p class="text-center text-body-secondary">© 2025 Medishop, Inc</p>
+            <p class="text-center text-body-secondary">© 2025 Medishop, Inc, Designed by Md Nouman Fahmy</p>
           </footer>
         </div>
       </>
